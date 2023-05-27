@@ -1,2 +1,2 @@
 riga da non modificare
-riga da modificare
+ora la riga è modificata	
