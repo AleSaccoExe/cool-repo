@@ -1,4 +1,5 @@
 riga da non modificare
 ho modificato questa riga in locale
+ho modificato questa riga da remoto
 ora la riga è modificata	
 
