@@ -1,2 +1,3 @@
 riga da non modificare
+riga modificata da remoto
 riga da non modificare
