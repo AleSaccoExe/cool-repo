@@ -1,2 +1,3 @@
 riga da non modificare
+riga modificata in locale
 riga da non modificare
