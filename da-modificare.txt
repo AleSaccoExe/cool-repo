@@ -1,4 +1,3 @@
 riga da non modificare
 riga modificata in locale
-riga modificata da remoto
-riga da non modificare
+in locale ho cancellato due righe
