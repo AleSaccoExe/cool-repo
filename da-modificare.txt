@@ -1,4 +1,1 @@
-riga da non modificare
-riga modificata in locale
-riga modificata da remoto
-riga da non modificare
+da remoto ho cancellato tutto
